@@ -1,0 +1,9 @@
+# Системные папки Python и PyInstaller
+__pycache__/
+build/
+dist/
+*.spec
+
+# Настройки редакторов кода
+.vscode/
+.idea/
